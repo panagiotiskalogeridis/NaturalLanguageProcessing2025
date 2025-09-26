@@ -1,3 +1,5 @@
+#P18052 - Kalogeridis Panagiotis - NLP Assignment - September 2025
+
 import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
